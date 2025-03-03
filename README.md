@@ -75,11 +75,11 @@ Check out my projects and feel free to connect! 🚀</p>
 <h2 align="left">📬 Contact Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/akhil-a39253i8/" target="_blank">
+  <a href="https://www.linkedin.com/in/siri-r-s2009/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/akhileshpatil" target="_blank">
+<!--   <a href="https://discord.com/users/akhileshpatil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  </a>
+  </a> -->
   
 </div>
